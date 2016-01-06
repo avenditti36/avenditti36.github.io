@@ -3,3 +3,9 @@ a{
   color: darkSlateGRay;
   font-weight: bold;
 }
+#navMenu {
+  list-style:none;
+}
+.navItems {
+  margin: 10px;
+}
