@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat+Subrayada:400,700);
+@import url(https://fonts.googleapis.com/css?family=Black+Ops+One);
 #page{
 width: 100%
 }
@@ -13,6 +15,7 @@ width: 30%;
 text-align: center;
 background-color: #AD3A3A;
 color: white;
+font-family: 'Black Ops One', cursive;
 }
 #headline {
   width: 100%%;
@@ -27,6 +30,9 @@ h1 {
   text-align:center;
   margin-bottom: 0px;
   text-shadow: 2px 2px #FFFFFF;
+font-family: 'Black Ops One', cursive;
+  font-weight: 700;
+  font-size: 3em;
 }
 #image1 {
   float: left;
@@ -101,6 +107,9 @@ text-shadow: 2px 2px #000000;
 }
 .menu1 {
   text-align: center;
+  width: 100%;
+  font-family: 'Black Ops One', cursive;
+  font-size: 2em;
 }
 .threebox {
   width:360px;
@@ -114,7 +123,10 @@ text-shadow: 2px 2px #000000;
   float: left;
   text-align: center;
 }
-.divrow{
+.divRow {
   width:1100px;
-  float: right;
+  float: left;
+}
+strong{
+  font-family: 'Black Ops One', cursive;
 }
