@@ -5,6 +5,7 @@ a{
 }
 #navMenu {
   list-style:none;
+  width:200px
 }
 .navItems {
   margin: 10px;

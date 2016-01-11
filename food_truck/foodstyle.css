@@ -1,0 +1,120 @@
+#page{
+width: 100%
+}
+#navList{
+  list-style: none;
+  width:600px;
+  float: left;
+  margin: 44px 0px
+}
+#navList li{
+display: inline-block;
+width: 30%;
+text-align: center;
+background-color: #AD3A3A;
+color: white;
+}
+#headline {
+  width: 100%%;
+  color: #AD3A3A;
+  text-align:center;
+}
+h1 {
+  width: 100%;
+  margin: auto;
+  margin-top: 25px;
+  color: #AD3A3A;
+  text-align:center;
+  margin-bottom: 0px;
+  text-shadow: 2px 2px #FFFFFF;
+}
+#image1 {
+  float: left;
+}
+#heady {
+  width: 882px;
+  min-width: 900px;
+
+}
+#pleasework {
+  float: left;
+  width: 640px;
+  }
+header{
+background-color: #FFF5C5;
+}
+body{
+  background-color: #FFF5C5;
+}
+a:link {
+  color:white;
+  text-decoration: none;
+}
+a:visited {
+  color:white;
+  text-decoration: none;
+}
+a:hover {
+  color:yellow;
+  text-decoration: none;
+}
+a:hover {
+  color:yellow;
+  text-decoration: underline;
+}
+#menuhead {
+  width: 100%;
+  text-align: center:
+}
+.pagecontainer{
+  width:1100px;
+  float:left;
+  height: 1500px
+}
+.pcontainer{
+  width:1100px;
+  float:left;
+  text-align: center;
+}
+.tcontainer {
+width: 600px;
+text-align: center;
+margin: auto 250px;
+margin-top: 20px;
+background-color: #AD3A3A;
+  color: #FFF5C5;
+  text-shadow: 2px 2px #000000;
+}
+.textcontainer {
+  background-color: #AD3A3A;
+  color: #FFF5C5;
+  height: 1310px;
+text-shadow: 2px 2px #000000;
+}
+.eventlist {
+  list-style: none;
+  margin: 0px;
+}
+#eventss {
+  margin: 0px;
+  padding-left: 0px;
+}
+.menu1 {
+  text-align: center;
+}
+.threebox {
+  width:360px;
+  margin: 0px;
+  float: left;
+  text-align: center;
+}
+.twobox {
+  width: 545px;
+  margin: 0px;
+  float: left;
+  text-align: center;
+}
+.divrow{
+  width:1100px;
+  float: right;
+}
