@@ -1,0 +1,28 @@
+.null{
+  color: rgba(79,23,23, 0.0)
+}
+.dish {
+  border: 1px solid #73AD21;
+  background-color: black;
+}
+.jumbotron {
+  background-color: #4584B8;
+  margin-bottom: 0px;
+}
+.navbar {
+  margin-bottom: 0px;
+}
+.footer {
+text-align: center;
+background-color: #838D95;
+}
+body {
+  background-image: url("../images/background.png");
+  background-repeat: repeat;
+}
+#contenrow {
+border-right: 1px solid gray;
+border-left: 1px solid gray;
+background-color: white;
+padding: 25px;
+}
