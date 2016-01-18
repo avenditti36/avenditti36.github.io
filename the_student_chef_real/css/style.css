@@ -6,8 +6,9 @@
   background-color: black;
 }
 .jumbotron {
-  background-color: #4584B8;
+  background-color: #FF6A3F;
   margin-bottom: 0px;
+  color: white;
 }
 .navbar {
   margin-bottom: 0px;
@@ -25,4 +26,41 @@ border-right: 1px solid gray;
 border-left: 1px solid gray;
 background-color: white;
 padding: 25px;
+}
+#inglist {
+padding-left: 55px
+}
+.subhead {
+  padding-left: 20px;
+}
+ol {
+  padding-left: 60px;
+  padding-right: 40px;
+}
+.btn-primary {
+   border-color: black;
+   background-color: #FF6A3F;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+  border-color: black;
+  background-color: #B65134;
+}
+a {
+  color: #FF6A3F
+}
+a:hover, a:focus, a:active, a.active {
+  color: #B65134;
+}
+h3, h4, h5 {
+  color: #FF6A3F;
+}
+h2 {
+  color: #B65134;
+
+}
+#textbox {
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 50px;
+  padding-bottom:100px
 }
